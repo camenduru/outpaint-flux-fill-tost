@@ -1,0 +1,16 @@
+{
+    "input_image": "https://files.catbox.moe/pqi6yz.png",
+    "left": 600,
+    "right": 600,
+    "top": 0,
+    "bottom": 0,
+    "feathering": 24,
+    "positive_prompt": "",
+    "negative_prompt": "",
+    "seed": 0,
+    "steps": 20,
+    "guidance": 30,
+    "cfg": 1.0,
+    "sampler_name": "euler",
+    "scheduler": "normal"
+}
