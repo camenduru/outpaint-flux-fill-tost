@@ -28,19 +28,19 @@
     },
     "left": {
       "type": "integer",
-      "description": "Left"
+      "description": "Left Pixels"
     },
     "right": {
       "type": "integer",
-      "description": "Right"
+      "description": "Right Pixels"
     },
     "top": {
       "type": "integer",
-      "description": "Top"
+      "description": "Top Pixels"
     },
     "bottom": {
       "type": "integer",
-      "description": "Bottom"
+      "description": "Bottom Pixels"
     },
     "feathering": {
       "type": "integer",
@@ -224,6 +224,7 @@
       "image2": "https://files.catbox.moe/pqi6yz.png",
       "image3": "https://fakeimg.pl/512x512/282828/eae0d0/?text=output#.png",
       "image4": "https://files.catbox.moe/erhf43.png",
+      "line1": "After the image is generated, please click Refresh to see the real size.",
       "widget": "example"
     }
   },
